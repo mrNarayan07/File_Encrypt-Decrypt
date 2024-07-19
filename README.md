@@ -50,18 +50,18 @@ This repository contains a simple Python script that demonstrates how to encrypt
 
 To encrypt a file:
 
-    ```sh
+    
     Enter 'E' to encrypt or 'D' to decrypt the file: e
     Enter the file name to encrypt (including file extension): example.txt
-    File Encrypted Successfully!!!```
+    File Encrypted Successfully!!!
 
 
 To decrypt a file:
 
-    ```sh
+    
     Enter 'E' to encrypt or 'D' to decrypt the file: d
     Enter the file name to decrypt (including file extension): example.txt
-    File Decrypted Successfully!!!```
+    File Decrypted Successfully!!!
 
 ## Notes
 
